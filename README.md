@@ -51,7 +51,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* Lynx
 
 ## DONASI
 * Dana : 088263565716 Wilbert
